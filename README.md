@@ -48,7 +48,3 @@ Agile (Scrum), Kanban, SAFe 5
 
 ### 🤖 AI Tools
 GitHub Copilot, ChatGPT, ClaudeAI
-
----
-
-
