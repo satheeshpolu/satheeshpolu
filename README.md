@@ -8,10 +8,10 @@ I specialize in **frontend and backend technologies**, focusing on **scalable ar
 ## 🚀 About Me
 
 I am a passionate engineer with a proven record of delivering **end-to-end software solutions** in **fast-paced agile environments**.  
-My expertise spans across **frontend frameworks, backend development, cloud infrastructure,** and **CI/CD pipelines** — with an emphasis on **code quality**, **performance**, and **collaboration**.
+My expertise spans across **frontend frameworks, backend development, cloud infrastructure,** and **CI/CD pipelines** - with an emphasis on **code quality**, **performance**, and **collaboration**.
 
 - 💡 12+ years in software engineering  
-- 🧩 Full-stack expertise — React, Node, Ruby on Rails, Spring Boot  
+- 🧩 Full-stack expertise - React, Node, Ruby on Rails, Spring Boot  
 - 🧠 Strong in architecture, micro frontends, and modern UI frameworks  
 - 🤝 Experienced in leading teams, mentoring, and agile facilitation  
 
@@ -53,14 +53,14 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ## 💼 Professional Experience
 
-### **Frontend/Backend Engineer — CLARK GmbH**  
+### **Frontend/Backend Engineer - CLARK GmbH**  
 📍 Frankfurt am Main, Germany | 🗓️ 07/2022 – 08/2025  
 
 **Project #1: International Swiss App & Core Library**
 - Built reusable core components for international apps (DE/FR/IT), reducing frontend development time by 50%.  
 - Increased test coverage to 85% while improving product reliability.  
 - Developed and integrated end-to-end tax claims module (Alletta) using web views.  
-- Managed complete release lifecycle — planning, publishing (App Store/Play Store), and stakeholder coordination.  
+- Managed complete release lifecycle planning, publishing (App Store/Play Store), and stakeholder coordination.  
 - Facilitated Scrum ceremonies and delivered product demos to management.  
 
 **Project #2: CLARK | Dein Versicherungsmanager**
@@ -70,7 +70,7 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ---
 
-### **Senior Software Engineer — INFOBLOX**  
+### **Senior Software Engineer - INFOBLOX**  
 📍 Bangalore, India | 🗓️ 03/2021 – 05/2022  
 
 **Project: SAFe Pilot and Athena UI App (SaaS)**
@@ -80,7 +80,7 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ---
 
-### **Senior UI Developer — HARMAN**  
+### **Senior UI Developer - HARMAN**  
 📍 Bangalore, India | 🗓️ 04/2016 – 03/2021  
 
 **Project: Ventiv iVOS (Integrity Value Oak System)**
@@ -90,7 +90,7 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ---
 
-### **Senior UI Developer — ARTECH INFO SYSTEMS**  
+### **Senior UI Developer - ARTECH INFO SYSTEMS**  
 📍 Bangalore, India | 🗓️ 05/2015 – 03/2016  
 
 **Project: Avaya SDN Healthcare App**
@@ -99,7 +99,7 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ---
 
-### **Software Engineer — AVVAS INFOTECH**  
+### **Software Engineer - AVVAS INFOTECH**  
 📍 Bangalore, India | 🗓️ 07/2013 – 03/2015  
 
 **Project: Solution and Deployment Cockpit**
@@ -117,9 +117,9 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ## 🏅 Certifications
 
-- Advanced React — Meta  
-- Redux — SCRIMBA  
-- Node.js & Vue.js — Udemy  
+- Advanced React - Meta  
+- Redux - SCRIMBA  
+- Node.js & Vue.js - Udemy  
 
 ---
 
@@ -133,9 +133,9 @@ GitHub Copilot, ChatGPT, ClaudeAI
 
 ## 🌍 Languages
 
-- 🇩🇪 German — A2  
-- 🇬🇧 English — Fluent  
-- 🇮🇳 Telugu — Native  
+- 🇩🇪 German - A2  
+- 🇬🇧 English - Fluent  
+- 🇮🇳 Telugu - Native  
 
 ---
 
