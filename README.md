@@ -11,7 +11,7 @@ I am a passionate engineer with a proven record of delivering **end-to-end softw
 My expertise spans across **frontend frameworks, backend development, cloud infrastructure,** and **CI/CD pipelines** - with an emphasis on **code quality**, **performance**, and **collaboration**.
 
 - 💡 12+ years in software engineering  
-- 🧩 Full-stack expertise - React, Node, Ruby on Rails, Spring Boot  
+- 🧩 Full-stack expertise - React, Angular, Vue, Node, Ruby on Rails, Spring Boot  
 - 🧠 Strong in architecture, micro frontends, and modern UI frameworks  
 - 🤝 Experienced in leading teams, mentoring, and agile facilitation  
 
