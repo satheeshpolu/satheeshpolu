@@ -1,4 +1,4 @@
-# 👨‍💻 Satheesh Polu - Software Engineer(Frontend/Backend)
+# 👨‍💻 Satheesh Polu - Software Development Engineer(Frontend/Backend)
 
 Welcome to my **portfolio repository**, showcasing my work as a **Software Engineer** with over **12 years of experience** in building **high-performance web and mobile applications**.  
 I specialize in **frontend and backend technologies**, focusing on **scalable architectures**, **modern design systems**, and **user-centric solutions**.
