@@ -122,3 +122,6 @@ This repository includes:
 - 💼 LinkedIn: **https://linkedin.com/in/satheesh-polu**
 - 🧑‍💻 GitHub: **https://github.com/satheeshpolu**
 - 📩 Email: **satheeshpolu99@gmail.com**
+
+**Key takeaway:** I build scalable, user-focused web and mobile applications with strong engineering fundamentals. If you’re hiring or want to collaborate, feel free to reach out.
+
